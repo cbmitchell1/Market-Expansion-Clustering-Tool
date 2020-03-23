@@ -4,6 +4,6 @@ I’ve built a general clustering tool to support non-technical Operations Manag
 
 The two part video tutorial and accompanying blog post walk users through the use of the tool (Appendix 2). The instructional materials aim to make MECT easy to adopt by the non-technical business operations manager, and thus avoid jargon and excessive formality.
 
-Tutorial Part 1: https://www.loom.com/share/25b52af60ff24859bdca26f12c7f5e86
-Tutorial Part 2: https://www.loom.com/share/8e76a084e2314faf94995f70be2795a2
-Blog Post: https://medium.com/@connor_23490/5-step-equitable-market-expansion-a-demand-clustering-tool-for-ops-managers-challenged-by-home-decb30d3afa1?sk=09444971fe2f9772b676bdf701f5e850
+[Tutorial Part 1](https://www.loom.com/share/25b52af60ff24859bdca26f12c7f5e86)  
+[Tutorial Part 2](https://www.loom.com/share/8e76a084e2314faf94995f70be2795a2)  
+[Blog Post](https://medium.com/@connor_23490/5-step-equitable-market-expansion-a-demand-clustering-tool-for-ops-managers-challenged-by-home-decb30d3afa1?sk=09444971fe2f9772b676bdf701f5e850)
